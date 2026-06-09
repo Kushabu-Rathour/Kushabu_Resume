@@ -1,64 +1,77 @@
-# Kushabu_Resume
+# Hi, I'm Kushabu Rathour AKA Khushboo 👋
 
-# Hi, I'm Kushabu Rathour AKA Khushboo👋
+## Data Analyst \| SQL • Python • Power BI • Analytics
 
-Data Analyst with experience turning large datasets into business
-insights using SQL, Python, Excel, Power BI, and analytics workflows.
+Results-driven Data Analyst with experience handling large-scale
+datasets, building dashboards, improving operational efficiency, and
+transforming raw data into business insights.
 
-## About Me
+## 📍 Location
 
--   Analyst with experience managing and transforming large-scale
-    datasets
--   Interested in Data Analytics, BI, Data Modeling, and Machine
-    Learning
--   Experience working with cross-functional stakeholders and
-    operational analytics
+New Delhi, India
 
-## Experience
+## 💼 Experience
 
-### Analyst \| Credgenics FinTech (Jun 2025 -- Present)
+### Analyst \| Credgenics FinTech *(Jun 2025 -- Present)*
 
--   Managed 50M+ records across multiple clients
--   Improved processing efficiency and reduced dispatch timelines
--   Built insight workflows using SQL, Python, Excel, and Power BI
+-   Managed **50M+ records** across multiple clients
+-   Improved processing efficiency by **95%**
+-   Reduced dispatch time by **60%**
+-   Worked with **SQL, Python, Excel, and Power BI**
+-   Supported operations for Amazon, Kotak, ICICI, and TVS
 
-### Data Executive \| OPK E Services Pvt Ltd (Jun 2024 -- May 2025)
+### Data Executive \| OPK E Services Pvt Ltd *(Jun 2024 -- May 2025)*
 
--   Extracted and transformed datasets using SQL
--   Improved campaign targeting through segmentation and analysis
--   Worked with ETL processes and Salesforce automation
+-   Built and transformed datasets using advanced SQL
+-   Improved campaign targeting precision by **20%+**
+-   Worked with ETL workflows and Salesforce automation
 
-### Data Executive \| Skylan IT (Mar 2023 -- May 2024)
+### Data Executive \| Skylan IT *(Mar 2023 -- May 2024)*
 
 -   Maintained database operations
--   Performed data validation and reporting using Excel, SQL, Power
-    Query, and Power BI
+-   Cleaned and validated records with Excel, SQL, Power Query, and
+    Power BI
+-   Achieved **98% data accuracy**
 
-## Projects
+## 🚀 Projects
 
 ### Sales Performance Dashboard (Power BI)
 
-Interactive dashboard with KPIs, revenue trends, and DAX metrics.
+-   Interactive dashboard with KPIs
+-   Revenue trend analysis
+-   DAX measures
 
-### Mall Customer Analysis (ML)
+### Mall Customer Analysis (Machine Learning)
 
-Customer behavior analysis using Python and machine learning.
+-   Customer behavior analysis using Python
 
-## Skills
+## 🧰 Skills
 
-**Languages & Analytics:** SQL, Python, Excel
+**Languages & Analytics** - SQL - Python (Pandas, NumPy) - Excel - Power
+BI - Tableau - DAX - Power Query
 
-**BI & Visualization:** Power BI, Tableau, Power Query, DAX
+**Tools** - MySQL - DBMS - Salesforce - Scikit-learn
 
-**Tools:** MySQL, Salesforce, DBMS, Scikit-learn
+## 🎓 Education
 
-## Certifications
+**Bachelor of Science**\
+Dr Bhimrao Ambedkar University (2020--2023)
 
--   Python Programming (Coursera)
--   MS Excel
--   Cisco Data Analyst Introduction
+## 🏆 Certifications
 
-## Connect
+-   Python Programming -- Coursera
+-   MS Excel -- Intellipath
+-   Cisco Data Analyst Introduction -- Cisco
 
--   LinkedIn: Add your profile link
+## 🏅 Achievement
+
+**Master of Time** -- Credgenics Annual Day
+
+## 📫 Connect
+
 -   Email: khkametia@gmail.com
+-   LinkedIn: https://www.linkedin.com/in/khushboo-rathour
+
+------------------------------------------------------------------------
+
+⭐ Open to Data Analyst opportunities and analytics projects.
