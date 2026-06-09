@@ -66,7 +66,7 @@ Dr Bhimrao Ambedkar University (2020--2023)
 
 ## 🏅 Achievement
 
-**Master of Time** -- Credgenics Annual Day
+**Master of Time 2025** -- Credgenics Annual Day
 
 ## 📫 Connect
 
