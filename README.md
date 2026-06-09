@@ -70,8 +70,8 @@ Dr Bhimrao Ambedkar University (2020--2023)
 
 ## 📫 Connect
 
--   Email: khkametia@gmail.com
--   LinkedIn: https://www.linkedin.com/in/khushboo-rathour
+-   📧 [Email](khkametia@gmail.com)
+-   💼 [LinkedIn](https://www.linkedin.com/in/khushboo-rathour)
 
 ------------------------------------------------------------------------
 
