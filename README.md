@@ -1,6 +1,6 @@
 # Kushabu_Resume
 
-# Hi, I'm Khushboo Rathour 👋
+# Hi, I'm Kushabu Rathour AKA Khushboo👋
 
 Data Analyst with experience turning large datasets into business
 insights using SQL, Python, Excel, Power BI, and analytics workflows.
