@@ -47,10 +47,11 @@ New Delhi, India
 
 ## 🧰 Skills
 
-**Languages & Analytics** - SQL - Python (Pandas, NumPy) - Excel - Power
-BI - Tableau - DAX - Power Query
-
-**Tools** - MySQL - DBMS - Salesforce - Scikit-learn
+**Languages :** Python, SQL
+**Libraries :** Pandas, NumPy, Excel, Scikit-learn, TensorFlow, Matplotlib, Seaborn
+**Databases :** MySQL
+**Tools :** Jupyter Notebook, Tableau, Power BI, Salesforce, DBMS
+**Concepts :** Regression, Classification, NLP, Time Series Forecasting, A/B Testing, Clustering
 
 ## 🎓 Education
 
